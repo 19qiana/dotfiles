@@ -1,0 +1,5 @@
+# CAEN
+Host aq
+	Hostname login.engin.umich.edu
+	User aqian
+	Compression yes
